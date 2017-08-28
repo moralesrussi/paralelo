@@ -6,16 +6,16 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 /**
- * This program demonstrates how to make database connection to PostgreSQL
+ * This program  make database connection to PostgreSQL
  * server using JDBC.
  * 
- * @author www.codejava.net
+ * @author Internet code base - M
  * 
  **/
 public class ConectarDBPostgres {
 
 	public static Connection main(String[] args) {
-		// create three connections to three different databases on localhost
+		// Conexion BD local 
 		Connection conn = null;
 		String db_user = Configuration.getInstance().getValue("DATABASE_USER");
 		String db_pass = Configuration.getInstance().getValue("DATABASE_PSWD");

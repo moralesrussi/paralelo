@@ -6,7 +6,7 @@ import java.io.InputStream;
 
 /**
  *
- * @author v3rgu1 - maurmorr
+ * @author  maurmorr
  */
 public class Configuration {
 
@@ -34,8 +34,8 @@ public class Configuration {
 			input = Configuration.class.getClassLoader().getResourceAsStream("Configuration.properties");
 			if (input == null) {
 				String workingDir = System.getProperty("user.dir");
-				System.out.println("Current working directory : " + workingDir);
-				System.out.println("Sorry, unable to find " + filename);
+				System.out.println("Directorio Actual : " + workingDir);
+				System.out.println("No fue posible encontrar directorio." + filename);
 				return;
 			}
 			properties.load(Configuration.class.getClassLoader().getResourceAsStream(CONFIG_FILE_NAME));
