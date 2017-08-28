@@ -1,0 +1,20 @@
+#Archivo de configuracion
+
+#General
+VERSION=1.0
+APLICACION=eParallel
+
+#Database 
+DATABASE_SERVER=locahost
+DATABASE_CATALOG=eparallel
+DATABASE_USER=eparallel
+DATABASE_PSWD=Macpio21
+DATABASE_PORT=5432
+
+#Directorios
+DIR_WORK=C:\\Users\\emormau\\Documents\\empre\\db\\data\\work\\
+DIR_INPUT=C:\\Users\\emormau\\Documents\\empre\\db\\data\\input\\
+DIR_OUTPUT=C:\\Users\\emormau\\Documents\\empre\\db\\data\\output\\
+
+#Copyright
+AUTHOR	=	Mauricio

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/resources/" kind="src" path="src"/>
+	<classpathentry excluding="images/" kind="src" path="resources"/>
+	<classpathentry kind="src" path="resources/images"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/postgresql-42.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/jackson-core-jackson-core-2.9.0.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/jackson-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/jackson-databind-2.9.0.pr4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/jackson-databind-2.9.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/syntheticaBlueMoon.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/synthetica_2.20.3_eval.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/syntheticaBlueMoon_2.9.6.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_91/lib/synthetica.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
